@@ -2,7 +2,7 @@ const { times } = require('lodash')
 
 function contractWith(code) {
   return `
-      pragma solidity 0.7.0;
+      pragma solidity 0.4.4;
         
         
       contract A {
